@@ -8,3 +8,11 @@
      - [Figma Cheat Sheet (Essential Keyboard Shortcuts) : 
 Pierluigi Giglio](https://www.figma.com/community/file/1340996401619015960/figma-cheat-sheet-essential-keyboard-shortcuts). Clear, short command
      - [accessibility Cheatsheet](https://www.figma.com/design/Pn6QYJfJDdItGBjK1qLFUF/Accessibility-Cheatsheet-(Community)?node-id=1-66&t=Le1RzWbTfWlq47u9-0), color platte, theme and corressponding elements set.
+
+## Diagram tools pros and cons
+#### eraser.io
+ - Pros: Has rich amount of icons
+ - Cons: Most of the diagram are not ediable from the diagram, could only be edited from the code. For example change the block flow direction from LR to TD is not doable by dragging. It is said only flowchat is editable from the diagram panel.
+ - Cons: eraser.io AI generate everytime different borken diagram result. Unstable
+#### mermaid.io 
+  - Pros: Chatgpt could generate direct code that is usable
