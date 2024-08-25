@@ -7,3 +7,4 @@
      - [Kotlin CheatSheet Eshketaa](https://www.figma.com/design/6QOTfpcz7SyfoHI9EWM0yZ/Kotlin-CheatSheet-(Community)?node-id=1-2&t=DyNQ65dv7WHWSPIN-0) language learning schema
      - [Figma Cheat Sheet (Essential Keyboard Shortcuts) : 
 Pierluigi Giglio](https://www.figma.com/community/file/1340996401619015960/figma-cheat-sheet-essential-keyboard-shortcuts). Clear, short command
+     - [accessibility Cheatsheet](https://www.figma.com/design/Pn6QYJfJDdItGBjK1qLFUF/Accessibility-Cheatsheet-(Community)?node-id=1-66&t=Le1RzWbTfWlq47u9-0), color platte, theme and corressponding elements set.
